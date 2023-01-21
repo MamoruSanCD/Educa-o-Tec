@@ -1,0 +1,44 @@
+/*Fundo*/
+Body{
+    background-color: #131313;
+}
+/*Edições do Logo*/
+.Logo_Principal img{
+   width: 8em; 
+  
+}
+.Logo_Principal{
+    display: block;
+    margin-left: 20em;
+    
+}
+.Logo_Principal label{
+    color: #FFF;
+}
+.Logo_Principal #Edu_Cab{
+    font-family: Lemon Milk Bold;
+    font-size: 5em;
+}
+.Logo_Principal #Tec_Cab{
+    font-family: Blestive Script PERSONAL USE;
+    font-size: 3em;
+    color: #2ABFBA;
+    position: absolute;
+    margin-top: 02.5em;
+    margin-left: -5em;
+}
+/*Cab*/
+.Cab{
+    border-bottom: 0.1em solid #fff;
+}
+/*Corpo*/
+.Corpo label{
+    color: #7FF4F0;
+    font-size: 2em;
+    font-family: Lemon Milk;
+    margin-left: 12.5em;
+}
+.Corpo{
+    display: block;
+    margin-top: 01.5em;
+}
